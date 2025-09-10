@@ -46,6 +46,7 @@ color: #fff;
     align-items: center;
     text-align: center;
     position: relative;
+    transition: background-image 1s ease-in-out;
 }
 .banner-overlay{
    content: "";
